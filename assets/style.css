@@ -1,0 +1,31 @@
+/*main body */
+ body{
+ 	background-image: url("https://st.hzcdn.com/fimgs/aff13d4f001b5624_3503-w402-h255-b0-p0--contemporary-kitchen.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+ }
+
+
+
+
+ 
+
+/* this is for the player boxes on selection mode */
+
+.imgSize{
+	width:100%;
+	height:100%;
+}
+
+.playerS{
+	border:2px solid black;
+	background-color: lightgray;
+	margin: 1px;
+}
+
+
+/* this is for the attacker space */
+
+#attack{
+	height:200px;
+}
